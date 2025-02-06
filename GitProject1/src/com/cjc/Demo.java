@@ -8,6 +8,7 @@ public class Demo {
 	
 	public void xyx() {
 		System.out.println("This is xyz Method");
+		System.out.println("Hello Trupti");
 	}
 
 	public void m2(){
