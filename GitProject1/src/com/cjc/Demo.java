@@ -12,5 +12,6 @@ public class Demo {
 
 	public void m2(){
 		System.out.println("This is M2 method");
+		Sysstem.out.println("Hello World");
 	}
 }
