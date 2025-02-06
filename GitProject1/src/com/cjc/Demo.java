@@ -10,4 +10,7 @@ public class Demo {
 		System.out.println("This is xyz Method");
 	}
 
+	public void m2(){
+		System.out.println("This is M2 method");
+	}
 }
